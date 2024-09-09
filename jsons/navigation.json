@@ -1,7 +1,5 @@
 {
     "activationInterval": "01:00:00",
-    "activationUri": "https://spartacus.deno.dev/",
-    "activationUris": [
-        "https://spartacus-1.deno.dev/"
-    ]
+    "activationUri": "https://v1.spartacus.us.kg/",
+    "activationUris": []
 }
