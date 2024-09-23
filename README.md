@@ -15,3 +15,6 @@
 ### 安装运行
 1. 从[releases](https://github.com/spartacus-soft/spartacus/releases)下载最新版本
 2. 安装完成后找到托盘图标，右键选择`启用代理`
+
+### 优惠活动
+Star本项目并创建一个Issue留下你的`安全邮箱`，赠送激活码。
