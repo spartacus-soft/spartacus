@@ -12,9 +12,10 @@
 2. 仅支持win-x64、linux-x64和linux-musl-x64
 3. 严禁用于从事黄赌毒、发表不当言论等违法行为，所有后果自负
 
-### 安装运行
-1. 从[releases](https://github.com/spartacus-soft/spartacus/releases)下载最新版本
-2. 安装完成后找到托盘图标，右键选择`启用代理`
+### 快速下载
+1. [Spartacus-win-x64.exe](https://gh.llkk.cc/https://github.com/spartacus-soft/spartacus/releases/download/1.1.6/Spartacus-win-x64.exe)
+2. [Spartacus-linux-x64.tar.gz](https://gh.llkk.cc/https://github.com/spartacus-soft/spartacus/releases/download/1.1.6/Spartacus-linux-x64.tar.gz)
+3. [Spartacus-linux-musl-x64.tar.gz](https://gh.llkk.cc/https://github.com/spartacus-soft/spartacus/releases/download/1.1.6/Spartacus-linux-musl-x64.tar.gz)
 
 ### 优惠活动
 Star本项目并创建一个Issue留下你的`安全邮箱`，赠送激活码。
