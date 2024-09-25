@@ -17,5 +17,11 @@
 2. [Spartacus-linux-x64.tar.gz](https://gh.llkk.cc/https://github.com/spartacus-soft/spartacus/releases/download/1.1.6/Spartacus-linux-x64.tar.gz)
 3. [Spartacus-linux-musl-x64.tar.gz](https://gh.llkk.cc/https://github.com/spartacus-soft/spartacus/releases/download/1.1.6/Spartacus-linux-musl-x64.tar.gz)
 
+### 技术要点
+1. 国内外分离DoH抗DNS污染
+2. 国内外IP域名自动智能分流
+3. 国外TCP连接智能防护技术
+4. cloudfare workers.dev中继技术
+
 ### 优惠活动
 Star本项目并创建一个Issue留下你的`安全邮箱`，赠送激活码。
