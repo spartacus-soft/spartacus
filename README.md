@@ -3,9 +3,11 @@
 
 ### 穿透直连
 多种领先技术多管齐下，[穿透GFW](https://rentry.co/Your_State_is_Not_Mine_zh_CN)直连访问除IP封锁之外的所有服务，敏感时期稳定性依然坚如磐石。
+![穿透直连](images/direct.png)
 
 ### 智能中继[可选]
 配合自行注册免费的Cloudflare worker做中继服务，让你以更快的物理路线连接海外资源，流量绝对不是瓶颈。
+![智能中继](images/relay.png)
 
 ### 使用限制
 1. 30天的免费试用，从首次安装起算
