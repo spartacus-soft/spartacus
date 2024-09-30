@@ -1,8 +1,8 @@
 # Spartacus
-斯巴达克斯，捍卫网络自由。
+斯巴达克斯，捍卫网络自由。基于[Your State is Not Mine](https://rentry.co/Your_State_is_Not_Mine_zh_CN)原理实现。
 
 ### 穿透直连
-多种领先技术多管齐下，[穿透GFW](https://rentry.co/Your_State_is_Not_Mine_zh_CN)直连访问除IP封锁之外的所有服务，敏感时期稳定性依然坚如磐石。
+多种领先技术多管齐下，穿透GFW直连访问除IP封锁之外的所有服务，敏感时期稳定性依然坚如磐石。
 ![穿透直连](images/direct.png)
 
 ### 智能中继[可选]
