@@ -1,5 +1,5 @@
 {
     "activationInterval": "01:00:00",
-    "activationUri": "https://spartacus.dpdns.org/",
+    "activationUri": "https://v1.spartacus.dpdns.org/",
     "activationUris": []
 }
